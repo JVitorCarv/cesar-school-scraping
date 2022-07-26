@@ -5,20 +5,21 @@ Since Chrome is one of the most popular web browsers, this program uses ChromeDr
 It also runs on Python 3.10.5, which can be downloaded at https://www.python.org/downloads/.
 
 1. Download an IDE (ex: VSCode, PyCharm, etc.)
-
+   <br>
 2. Clone the git repository at https://github.com/JVitorCarv/cesar-qa-challenge.git
-
+   <br>
 3. Start a virtual environment at the program's folder
+
    `py -m venv venv`
+   <br>
 
 4. Activate the virtual environment
    `cd venv/Scripts/`
    `.\activate`
-
-And then go back to the project folder
-`cd ../../`
-
+   <br>And then go back to the project folder
+   `cd ../../`
+   <br>
 5. Download the required libraries
    `pip install -r requirements.txt`
 
-Run! :)
+Run! :D
