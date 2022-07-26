@@ -6,7 +6,7 @@ It also runs on Python 3.10.5, which can be downloaded at https://www.python.org
 
 1. Download an IDE (ex: VSCode, PyCharm, etc.)
 
-2. Clone the git repository at
+2. Clone the git repository at https://github.com/JVitorCarv/cesar-qa-challenge.git
 
 3. Start a virtual environment at the program's folder
    `py -m venv venv`
