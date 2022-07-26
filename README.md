@@ -8,18 +8,16 @@ It also runs on Python 3.10.5, which can be downloaded at https://www.python.org
    <br>
 2. Clone the git repository at https://github.com/JVitorCarv/cesar-qa-challenge.git
    <br>
-3. Start a virtual environment at the program's folder
-
+3. Start a virtual environment at the program's folder<br>
    `py -m venv venv`
-   <br>
 
-4. Activate the virtual environment
-   `cd venv/Scripts/`
-   `.\activate`
-   <br>And then go back to the project folder
+4. Activate the virtual environment<br>
+   `cd venv/Scripts/` <br>
+   `.\activate` <br><br>
+   And then go back to the project folder <br>
    `cd ../../`
-   <br>
-5. Download the required libraries
+   
+5. Download the required libraries <br>
    `pip install -r requirements.txt`
 
 Run! :D
